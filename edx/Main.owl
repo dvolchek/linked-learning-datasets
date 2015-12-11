@@ -283,7 +283,7 @@
     <!-- http://www.semanticweb.org/EdxOntology/Main#endDate -->
 
     <owl:DatatypeProperty rdf:about="&Main;endDate">
-        <rdfs:label xml:lang="ru">The date when course ends</rdfs:label>
+        <rdfs:label xml:lang="ru">End of course</rdfs:label>
         <rdfs:label xml:lang="ru">Дата окончания</rdfs:label>
         <rdfs:domain rdf:resource="&Main;Course"/>
         <rdfs:range rdf:resource="&xsd;dateTime"/>
